@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec0b7b17-f41f-4aeb-a45c-03b1e1d7f856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/untitiled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-github-test/src/main/java/com/yang/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-github-test/src/main/java/com/yang/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec0b7b17-f41f-4aeb-a45c-03b1e1d7f856" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/02-github-test/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/02-github-test/src/main/java/com/yang/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -53,6 +47,11 @@
         <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
@@ -70,9 +69,64 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-github-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-github-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-github-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-github-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-github-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-github-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,17 +165,17 @@
       <updated>1574823260392</updated>
       <workItem from="1574823263400" duration="666000" />
       <workItem from="1574833550193" duration="244000" />
+      <workItem from="1574838905861" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="910000" />
+    <option name="totallyTimeSpent" value="928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -161,7 +215,7 @@
     <entry file="file://$PROJECT_DIR$/02-github-test/src/main/java/com/yang/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
